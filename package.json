@@ -1,9 +1,9 @@
 {
   "name": "degenderizificator",
-  "title": "degenderizificator",
+  "title": "Degenderizificator",
   "id": "jid1-JvBFly3fEJrnRQ",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
+  "description": "For a gender neutral browsing experience.",
+  "author": "Anton Strömkvist",
+  "license": "MIT",
   "version": "0.1"
 }
